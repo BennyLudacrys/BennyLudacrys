@@ -1,13 +1,22 @@
 ### Hi there! 👋 I'm Benedito Muianga
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedito-muianga-051905246/)
+#### I'm a back end developer, I like to develop Rest and Restfull APIs in Java, PHP languages. I am currently working on personal projects to solidify my knowledge to stay up to date on technological changes.
+
+#### I have been a linux user for more than 3 years as my main system and I have some control over the commands
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedito-muianga)
 ![Blog](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 
+#### Below estimates of the result of my work under github
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=bennyludacrys&theme=tokyonight)
+
+
+#### Below are my preferences regarding programming languages, development and testing environments
+
 
 
 <div style="display: inline_block"><br/>
@@ -40,7 +49,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bennyludacrys&theme=dark&border_radius=4)](https://git.io/streak-stats)
 
 
+## I am open to participate in medium or large projects.
 
+##### Future plans to study data science with python language and R language
 
 
 
