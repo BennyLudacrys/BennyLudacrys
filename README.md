@@ -1,8 +1,23 @@
 ### Hi there! 👋 I'm Benedito Muianga
 
-#### I'm a back end developer, I like to develop Rest and Restfull APIs in Java, PHP languages. I am currently working on personal projects to solidify my knowledge to stay up to date on technological changes.
 
-#### I have been a linux user for more than 3 years as my main system and I have some control over the commands
+#### 👨‍💻 Software Developer | IT Enthusiast | Problem Solver
+
+
+#### Passionate about technology and software development, with experience in Java, Python, Django, and microservices architecture. I work on projects ranging from emergency support systems to store management and facial recognition solutions. I have a strong interest in artificial intelligence and data analysis, constantly striving to create innovative and scalable solutions.
+
+🎯 Focused on:
+
+    Microservices Architecture
+    Cloud Computing
+    API Integration
+    Full-Stack Development
+
+
+####🚀 Always looking for new challenges and opportunities to learn and contribute!
+
+
+####📬 Let's connect!
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedito-muianga)
 ![Blog](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
